@@ -15,7 +15,6 @@
 #### why does it need updates? : 
 
 * poor ergonomics
-
 * outdated html codes
 
 * 
