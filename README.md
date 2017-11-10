@@ -1,4 +1,4 @@
-3 markdown-warmup
+﻿3 markdown-warmup
 # markdown-warmup
 //this is my attempt to editing the file
 
@@ -35,7 +35,7 @@
 * link to VOD movie
 * integrated media on site (video and pics)
 
-![alt text](https://www.warnerbros.com/archive/spacejam/movie/img/p-jamlogo.gif "Space Jam")
+![Screenshot](screen.png "Space Jam")
 
 ### Group Members ###
 
